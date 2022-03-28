@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uzairafridi00/portfolio/static/css/main.12aaf607.css",
+    "main.js": "/uzairafridi00/portfolio/static/js/main.6d982cb0.js",
+    "static/js/787.19ebf4d1.chunk.js": "/uzairafridi00/portfolio/static/js/787.19ebf4d1.chunk.js",
+    "static/media/uzair.png": "/uzairafridi00/portfolio/static/media/uzair.a2783da2af2bf955383c.png",
+    "index.html": "/uzairafridi00/portfolio/index.html",
+    "main.12aaf607.css.map": "/uzairafridi00/portfolio/static/css/main.12aaf607.css.map",
+    "main.6d982cb0.js.map": "/uzairafridi00/portfolio/static/js/main.6d982cb0.js.map",
+    "787.19ebf4d1.chunk.js.map": "/uzairafridi00/portfolio/static/js/787.19ebf4d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12aaf607.css",
+    "static/js/main.6d982cb0.js"
+  ]
+}
